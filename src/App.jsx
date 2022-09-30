@@ -1,7 +1,9 @@
+import Rotear from "./router/Rotear.jsx"
+
 function App() {
   return (
     <div className="App">
-        <p>Costs</p>
+      <Rotear />
     </div>
   )
 }
