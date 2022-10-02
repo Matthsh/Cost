@@ -6,6 +6,7 @@ import Navbar from './components/layout/Navbar.jsx'
 import Footer from './components/layout/Footer.jsx'
 import Container from './components/layout/Container.jsx'
 import Projects from './components/pages/Projects.jsx'
+import NewProject from './components/pages/NewProject.jsx'
 
 
 function App() {
@@ -18,7 +19,8 @@ function App() {
             <Route path="/" element={<Home />}></Route>
             <Route path="/company" element={<Company />}></Route>
             <Route path="/contato" element={<Contato />}></Route>
-            <Route path="/newproject" element={<Projects />}></Route>
+            <Route path="/projects" element={<Projects />}></Route>
+            <Route path="/newproject" element={<NewProject />}></Route>
           </Routes>
         </Container>
         <Footer />
