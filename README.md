@@ -13,6 +13,6 @@
   </ol>
   <ol>
     <h5>Página de formilário: Criar novo projeto</h5>
-    <img src="![Página de Formilário pronta](https://user-images.githubusercontent.com/78867040/193661748-124bc39b-114f-44c6-b6fe-d6d9c842d40c.png"/>
+    <img src="https://user-images.githubusercontent.com/78867040/193661748-124bc39b-114f-44c6-b6fe-d6d9c842d40c.png"/>
   </ol>
 </ul>
