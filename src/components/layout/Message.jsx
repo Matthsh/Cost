@@ -4,7 +4,7 @@ import styles from './Message.module.css'
 
 export default function Message({ type, msg }) {
 
-    const [visible, setVisible] = useState(false)
+    const [visible, setVisible] = useState();
 
     useEffect(() => {
         if(!msg) {
