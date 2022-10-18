@@ -1,8 +1,8 @@
 {
   "projects": [
     {
-      "name": "Mattheus Medina Ayala",
-      "budget": "12312",
+      "name": "projeto 1",
+      "budget": "10000",
       "category": {
         "id": "1",
         "name": "Infra"
@@ -12,48 +12,15 @@
       "id": 1
     },
     {
-      "name": "projeto 1",
-      "budget": "12312",
+      "name": "novo projeto",
+      "budget": "15000",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "3",
+        "name": "Design"
       },
       "cost": 0,
       "services": [],
       "id": 2
-    },
-    {
-      "name": "projeto 1",
-      "budget": "12321",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 3
-    },
-    {
-      "name": "projeto 1",
-      "budget": "12312",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 4
-    },
-    {
-      "name": "projeto 1",
-      "budget": "10000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 5
     }
   ],
   "categories": [
