@@ -7,7 +7,7 @@ import Footer from './components/layout/Footer.jsx'
 import Container from './components/layout/Container.jsx'
 import Projects from './components/pages/Projects.jsx'
 import NewProject from './components/pages/NewProject.jsx'
-
+import Project from './components/pages/Project.jsx'
 
 function App() {
   return (
@@ -21,6 +21,7 @@ function App() {
             <Route path="/contato" element={<Contato />}></Route>
             <Route path="/projects" element={<Projects />}></Route>
             <Route path="/newproject" element={<NewProject />}></Route>
+            <Route path="/project/:id" element={<Project />}></Route>
           </Routes>
         </Container>
         <Footer />
