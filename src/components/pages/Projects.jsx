@@ -15,16 +15,16 @@ export default function Projects() {
     useEffect(() => {
         setTimeout(() => {
             fetch('http://localhost:5000/projects', {
-            method: 'GET',
-            content: {
-                'Content-Type': 'application/json',
-            },
-        }).then((resp) => resp.json())
-            .then((data) => {
-                setProjects(data)
-                setRemoveLoading(true)
-            })
-            .catch((err) => { console.log(err) })
+                method: 'GET',
+                content: {
+                    'Content-Type': 'application/json',
+                },
+            }).then((resp) => resp.json())
+                .then((data) => {
+                    setProjects(data)
+                    setRemoveLoading(true)
+                })
+                .catch((err) => { console.log(err) })
         }, 2000)
     }, [])
 
@@ -41,11 +41,11 @@ export default function Projects() {
                 'Content-Type': 'application/json'
             },
         }).then(resp => resp.json)
-        .then(() => {
-            setProjects(projects.filter((project) => project.id !== id))
-            setProjectMessage('Projeto removido com sucesso')
-        }
-        ).catch(err => console.log(err))
+            .then(() => {
+                setProjects(projects.filter((project) => project.id !== id))
+                setProjectMessage('Projeto removido com sucesso')
+            }
+            ).catch(err => console.log(err))
     }
     return (
         <div className={styles.project_container}>
@@ -58,14 +58,14 @@ export default function Projects() {
             <Container customClass="start">
                 {projects.length > 0 &&
                     projects.map((project) => (
-                    <ProjectCard 
-                        key={project.id}
-                        name={project.name}
-                        id={project.id}
-                        budget={project.budget}
-                        category={project.category.name}
-                        handleRemove={removeProject}
-                    />
+                        <ProjectCard
+                            key={project.id}
+                            name={project.name}
+                            id={project.id}
+                            budget={project.budget}
+                            category={project.category.name}
+                            handleRemove={removeProject}
+                        />
                     ))}
                 {!removeLoading && <Loading />}
                 {removeLoading && projects.length === 0 && (
