@@ -25,6 +25,6 @@
   </ol>
   <ol>
     <h5>Project page: Edit project</h5>
-    <img src=""/>
+    <img src="https://user-images.githubusercontent.com/78867040/200185418-dce10d02-052f-40d6-b72d-9dbef8f698e7.png"/>
   </ol>
 </ul>
