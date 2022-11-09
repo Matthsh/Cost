@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "backend": "json-server --watch db.json --port 5000", // yarn run backend
+    "backend": "json-server --watch db.json --port 5000", //yarn run backend
     "build": "vite build",
     "preview": "vite preview"
   },
