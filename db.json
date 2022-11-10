@@ -7,8 +7,21 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 20,
+      "services": [
+        {
+          "name": "comida",
+          "cost": "10",
+          "description": "comprar comida de felinos",
+          "id": "1b4af3f9-8aff-4a18-9994-1a0beeb9143d"
+        },
+        {
+          "name": "service 1",
+          "cost": "10",
+          "description": "um serviço",
+          "id": "8622b462-0c68-4666-b9f3-d9ae0322ac63"
+        }
+      ],
       "id": 1
     }
   ],
