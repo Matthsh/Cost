@@ -31,5 +31,10 @@
     <h5>Project page: Edit Form</h5>
     <img src="https://user-images.githubusercontent.com/78867040/200643724-fde96434-8b88-48ad-8439-d54b1221755a.png"/>
   </ol>
+  <ol>
+    <h5>Project page: Add new service</h5>
+    <img src="https://user-images.githubusercontent.com/78867040/200933489-f02acd98-0eb3-4d8a-940a-d6010bc4e2c3.png"/>
+
+  </ol>
 </ul>
 
