@@ -1,0 +1,5 @@
+to use the aplication:
+start with the "yarn" command at the terminal
+then you need to start the database, you can use the command "yarn run backend" to do it
+for the last, you can begin to serve the project with "yarn dev"
+that all folks 

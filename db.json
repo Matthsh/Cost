@@ -7,7 +7,7 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 20,
+      "cost": 1520,
       "services": [
         {
           "name": "comida",
@@ -20,6 +20,18 @@
           "cost": "10",
           "description": "um serviço",
           "id": "8622b462-0c68-4666-b9f3-d9ae0322ac63"
+        },
+        {
+          "name": "Contratar um desenvolver de funções",
+          "cost": "500",
+          "description": "Desenvolvedor para ajudar a criar funções para um público alvo",
+          "id": "704b9a5e-bf07-482c-956e-66d8fef72a79"
+        },
+        {
+          "name": "Contratar um desenvolver Melhor",
+          "cost": "1000",
+          "description": "Contratar um desenvolvedor melhor do que o último, que era uma pessoa com a cabeça encolhida",
+          "id": "85ff7acd-09dc-41c5-aad7-5f337f86c946"
         }
       ],
       "id": 1
