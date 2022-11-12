@@ -34,7 +34,11 @@
   <ol>
     <h5>Project page: Add new service</h5>
     <img src="https://user-images.githubusercontent.com/78867040/200933489-f02acd98-0eb3-4d8a-940a-d6010bc4e2c3.png"/>
-
+  </ol>
+   <ol>
+    <h5>Project page: Add new service complete</h5>
+    <img src="https://user-images.githubusercontent.com/78867040/201152584-e0624df2-8277-4356-bc7d-f48c62a42e51.png"/>
   </ol>
 </ul>
+
 
