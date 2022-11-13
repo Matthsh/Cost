@@ -39,6 +39,11 @@
     <h5>Project page: Add new service complete</h5>
     <img src="https://user-images.githubusercontent.com/78867040/201152584-e0624df2-8277-4356-bc7d-f48c62a42e51.png"/>
   </ol>
+  <ol>
+    <h5>Project page: Exclude a service</h5>
+    <img src="https://user-images.githubusercontent.com/78867040/201538019-0c316ce4-91fb-4192-81ff-dd1b1bcad0e5.png"/>
+    <img src="https://user-images.githubusercontent.com/78867040/201538030-f8e52b00-f466-4e20-b30c-db890b69d7ba.png"/>
+  </ol>
 </ul>
 
 
